@@ -1,0 +1,19 @@
+---@meta _
+
+---@class Set
+---@field Main? string
+---@field Sub? string
+---@field Range? string
+---@field Ammo? string
+---@field Head? string
+---@field Body? string
+---@field Hands? string
+---@field Leg? string
+---@field Feet? string
+---@field Neck? string
+---@field Waist? string
+---@field Ear1? string
+---@field Ear2? string
+---@field Ring1? string
+---@field Ring2? string
+---@field Back? string

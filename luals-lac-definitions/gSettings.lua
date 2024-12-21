@@ -1,0 +1,22 @@
+---@meta _
+
+---[View documents](https://thornyffxi.github.io/LuAshitacast/gsettings.html)
+---@class gSettings
+---@field AddSetEquipScreenOrder boolean
+---@field AllowSyncEquip boolean
+---@field AddSetBackups boolean
+---@field Debug boolean
+---@field EquipBags table
+---@field EnableNomadStorage boolean
+---@field ForceDisableBags table
+---@field ForceEnableBags table
+---@field PetskillDelay number
+---@field WeaponskillDelay number
+---@field AbilityDelay number
+---@field SpellOffset number
+---@field RangedBase number
+---@field RangedOffset number
+---@field ItemOffset number
+---@field FastCast number
+---@field Snapshot number
+gSettings = { };

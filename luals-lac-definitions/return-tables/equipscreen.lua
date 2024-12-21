@@ -1,0 +1,13 @@
+---@meta _
+
+---@class EquipScreen
+---@field Attack number
+---@field DarkResistance number
+---@field Defense number
+---@field EarthResistance number
+---@field FireResistance number
+---@field IceResistance number
+---@field LightningResistance number
+---@field LightResistance number
+---@field WaterResistance number
+---@field WindResistance number

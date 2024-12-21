@@ -1,0 +1,25 @@
+---@meta _
+
+---@class EquipmentPiece
+---@field Container number
+---@field Item userdata
+---@field Name string
+---@field Resource userdata
+
+---@class Equipment
+---@field Main? EquipmentPiece
+---@field Sub? EquipmentPiece
+---@field Range? EquipmentPiece
+---@field Ammo? EquipmentPiece
+---@field Head? EquipmentPiece
+---@field Body? EquipmentPiece
+---@field Hands? EquipmentPiece
+---@field Leg? EquipmentPiece
+---@field Feet? EquipmentPiece
+---@field Neck? EquipmentPiece
+---@field Waist? EquipmentPiece
+---@field Ear1? EquipmentPiece
+---@field Ear2? EquipmentPiece
+---@field Ring1? EquipmentPiece
+---@field Ring2? EquipmentPiece
+---@field Back? EquipmentPiece

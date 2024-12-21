@@ -1,0 +1,19 @@
+---@meta _
+
+---@class Player
+---@field HP number
+---@field MaxHP number
+---@field HPP number
+---@field IsMoving boolean
+---@field MainJob string
+---@field MainJobLevel number
+---@field MainJobSync number
+---@field MP number
+---@field MaxMP number
+---@field MPP number
+---@field Name string
+---@field Status string
+---@field SubJob string
+---@field SubJobLevel number
+---@field SubJobSync number
+---@field TP number
