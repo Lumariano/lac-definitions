@@ -1,19 +1,27 @@
 ---@meta _
 
+---@class SetPiece
+---@field Name string
+---@field Augment string | string[]
+---@field AugRank number
+---@field AugTrial number
+---@field AugPath string
+---@field Bag string
+
 ---@class Set
----@field Main? string
----@field Sub? string
----@field Range? string
----@field Ammo? string
----@field Head? string
----@field Body? string
----@field Hands? string
----@field Leg? string
----@field Feet? string
----@field Neck? string
----@field Waist? string
----@field Ear1? string
----@field Ear2? string
----@field Ring1? string
----@field Ring2? string
----@field Back? string
+---@field Main? string | SetPiece
+---@field Sub? string | SetPiece
+---@field Range? string | SetPiece
+---@field Ammo? string | SetPiece
+---@field Head? string | SetPiece
+---@field Body? string | SetPiece
+---@field Hands? string | SetPiece
+---@field Leg? string | SetPiece
+---@field Feet? string | SetPiece
+---@field Neck? string | SetPiece
+---@field Waist? string | SetPiece
+---@field Ear1? string | SetPiece
+---@field Ear2? string | SetPiece
+---@field Ring1? string | SetPiece
+---@field Ring2? string | SetPiece
+---@field Back? string | SetPiece
