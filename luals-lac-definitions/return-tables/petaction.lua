@@ -9,6 +9,6 @@
 ---@field Name string
 ---@field Recast? string
 ---@field Resend boolean
----@field Resource? table
+---@field Resource? userdata
 ---@field Skill? string
 ---@field Type string
