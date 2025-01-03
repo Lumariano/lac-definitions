@@ -2,10 +2,11 @@
 
 ---@class SetPiece
 ---@field Name string
----@field Augment string | string[]
+---@field AugPath string
 ---@field AugRank number
 ---@field AugTrial number
----@field AugPath string
+---@field Augment string | string[]
+---@field Quantity number | "all"
 ---@field Bag string
 
 ---@class Set
